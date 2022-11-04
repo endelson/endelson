@@ -8,18 +8,7 @@
 </a>
 </a>  
   
-
 I’m a full-stack developer who has turned years of freelancing into a full-time career.  
   
 
 <br/>  
-
-<br/>  
-
-
-<br />
-<div align="left">
-            <a href="https://paypal.me/endelson" target="_blank" style="display: inline-block;">
-                <img  src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="left"/>
-</a></div>
