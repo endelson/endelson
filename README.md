@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hey 👋, I'm a web developer  
+  
 
-<!--
-**endelson/endelson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://linkedin.com/in/endeladze" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="https://instagram.com/endelson" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+</a>  
+  
 
-Here are some ideas to get you started:
+I’m a full-stack developer who has turned years of freelancing into a full-time career.  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>  
+
+<br/>  
+
+
+<br />
+<div align="left">
+            <a href="https://paypal.me/endelson" target="_blank" style="display: inline-block;">
+                <img  src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
+                    align="left"/>
+</a></div>
